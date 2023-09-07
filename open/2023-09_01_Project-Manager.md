@@ -36,7 +36,7 @@ You will be given the project management of R&D projects with a flagship Europea
 
 You are actively contributing and proposing potential calls to apply to and even writing the proposals for these calls, while managing on-going projects to efficiently achieve Rokubun strategic goals. You regularly carry out business development activities to generate new leads and foster awareness of Rokubun's value propositions among key stakeholders.
 
-## How are you going to do it
+## How are you going to do it
 
 We are still small, so you will closely work in a team of 3 to 4 engineers that will support you when it comes to understand the technology and getting a grasp on our capabilities.
 
@@ -44,16 +44,17 @@ We hold weekly stand-up meetings to check what each team member is doing, which 
 
 As a mid-level employee, and despite having regular meetings, we expect some autonomy in your day-to-day work.
 
-## Who will you be working with
+## Who will you be working with
 
    - Xavier Banqué-Casanovas (CEO and co-founder), research engineer and business developer.
    - Miquel Garcia-Fernandez (CTO and co-founder), GNSS engineer and software developer
+   - Project Technical Leads in charge of project development.
 
-## Where will you work
+## Where will you work
 
 In our offices at Barcelona, near Glòries, but we are about to move to other offices (likely around Plaça Espanya, south Barcelona)
 
-## Which skills are we looking for
+## Which skills are we looking for
 
    - Bachelor degree or master degree in business or related field
    - Experience in project/program management and managing a team. We usually work with institutions such as the European Comission, GSA and European Space Agency. Therefore, experience working with these institutions will be greatly evaluated 👍
