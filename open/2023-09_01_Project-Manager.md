@@ -62,23 +62,23 @@ In our offices at Barcelona, near Glòries, but we are about to move to other of
    - Competency in office suite applications.
    - English proficient level (additional languages will be appreciated)
 
- Regarding soft skills, keep in mind that:
+Regarding soft skills, keep in mind that:
 
-    - As a project manager, you should be organized and be able to closely monitor and track pending tasks.
-    - Be familiar with the bureaucratic aspects of project management (documentation preparation, payment order and invoicing, ...)
-    - We embrace positive criticism, we know we are not perfect and that there is always a better way to do things.
+- As a project manager, you should be organized and be able to closely monitor and track pending tasks.
+- Be familiar with the bureaucratic aspects of project management (documentation preparation, payment order and invoicing, ...)
+- We embrace positive criticism, we know we are not perfect and that there is always a better way to do things.
 
 ## What do we offer
 
-    - A mid-level position within Rokubun
-    - Salary range: 30k€ ~ 35k€
-    - 25 holidays per year
-    - Flexible working hours, the only thing we ask is that you show up during our core hours: from 10h to 15h
-    - Having a good rest helps stay productive, that is why we offer 37.5 hours per week instead of 40.
-    - Remote work 30% of working time (yes, you will be able to work in slippers)
-    - Permanent contract, after 6 months test period
-    - Professional growth within an expanding company in a highly dynamic sector. Is there any workshop or conference you'd like to attend? We are all ears. Do you have in mind a formation 👩‍🎓 opportunity of your interest? Let us know and we will try to accommodate it.
-    - ☕ and 🍪 are on us!
+- A mid-level position within Rokubun
+- Salary range: 30k€ ~ 35k€
+- 25 holidays per year
+- Flexible working hours, the only thing we ask is that you show up during our core hours: from 10h to 15h
+- Having a good rest helps stay productive, that is why we offer 37.5 hours per week instead of 40.
+- Remote work 30% of working time (yes, you will be able to work in slippers)
+- Permanent contract, after 6 months test period
+- Professional growth within an expanding company in a highly dynamic sector. Is there any workshop or conference you'd like to attend? We are all ears. Do you have in mind a formation 👩‍🎓 opportunity of your interest? Let us know and we will try to accommodate it.
+- ☕ and 🍪 are on us!
 
 ## How to apply
 
