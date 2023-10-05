@@ -86,4 +86,4 @@ Regarding soft skills, keep in mind that:
 
 ## How to apply
 
-You liked what you have read? drop us a line with your motivation letter and CV at jobs@rokubun.cat. Use the reference RKBN_2023-09_ProjectMng
+You liked what you have read? drop us a line with your motivation letter and CV at jobs@rokubun.cat. Use the reference RKBN_2023-09_ProjectController
