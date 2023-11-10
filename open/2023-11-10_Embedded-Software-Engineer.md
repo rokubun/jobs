@@ -20,6 +20,11 @@ so that we can run it into embedded platforms. In practice, this means that you 
 - refactor our codebase written in C to make sure that is compliant with standards
 such as MISRA our ASIL-B.
 
+An example of work we are doing at Rokubun can be found
+[here](https://insidegnss.com/rokubun-unveils-osnma-library-for-embedded-platforms/)
+for instance (more projects and information can be found
+[in our web page](https://www.rokubun.cat/tag/project/))
+
 ### In 1 month
 
 You will get to know the team, how we work, how we code and which are the projects we currently have ongoing.
