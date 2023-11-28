@@ -2,7 +2,7 @@
 
 A directory of Job posts offered by Rokubun
 
-Go to the [open position folder](./open/) to browse the current open positions.
+Go to the [open position folder](./open/index.md) to browse the current open positions.
 
 If you have questions, feel free to contact us at [jobs@rokubun.cat](jobs@rokubun.cat) or [submit an issue](https://github.com/rokubun/jobs/issues)
 
