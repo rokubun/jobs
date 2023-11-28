@@ -1,3 +1,5 @@
+# Project Controller
+
 We are an R&D performing startup, pursuing a breakthrough in Accurate and affordable navigation solutions. We work mostly developing algorithms and software related to satellite navigation 🛰️ (GNSS), but we aim also at exploring other technologies (WiFi, 5G, Ultra wideband, ...). Also, we sometimes get our hands dirty and play with hardware in case it's useful for showcasing our technologies 🔩
 
 As of today, the automotive 🚗 and Location Based Services 📱 are actively looking for navigation solutions that are scalable and can offer sub-metric accuracy. After a few years generating proprietary navigation technology on his own, Rokubun is getting there!
