@@ -96,7 +96,7 @@ and software qualification for the road market.
 
 - Salary range: 25k€ ~ 35k€ (depending on your experience and, in particular, on
 the fulfillment of the bonus points mentioned above)
-- 27 holidays per year
+- 25 holidays per year
 - **flexible working hours**, the only thing we ask is that you show up during our core hours: from 10h to 15h
 - Having a good rest helps stay productive, that is why we offer **37.5 hours per week** instead of 40.
 - **Remote work** three days every 2 weeks
