@@ -62,7 +62,7 @@ Regarding soft skills, keep in mind that we highly value **curiosity** as well a
 
 Conditions are dependent on the Torres Quevedo, a summary follows:
 
-- Salary up to 55k€
+- Salary up to 55k€/year
 - 27 holidays per year
 - **flexible working hours**, the only thing we ask is that you show up during our core hours: from 10h to 15h
 - Having a good rest helps stay productive, that is why we offer **37.5 hours per week** instead of 40.
